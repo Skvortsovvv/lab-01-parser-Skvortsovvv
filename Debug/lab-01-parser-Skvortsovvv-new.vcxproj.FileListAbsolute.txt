@@ -1,0 +1,2 @@
+C:\Users\user-pc\source\repos\lab-01-parser-Skvortsovvv-new\Debug\lab-01-parser-Skvortsovvv-new.exe
+C:\Users\user-pc\source\repos\lab-01-parser-Skvortsovvv-new\Debug\lab-01-parser-Skvortsovvv-new.pdb

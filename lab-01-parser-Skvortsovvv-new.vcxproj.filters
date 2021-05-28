@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{6b53c632-8e97-4e8a-b543-83d461297f7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="sources">
+      <UniqueIdentifier>{c4b870e5-ea4a-49b3-a412-aac43da1a3fd}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="sources\main.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+    <ClCompile Include="source.cpp">
+      <Filter>sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="include\header.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+    <ClInclude Include="json-develop\single_include\nlohmann\json.hpp">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
